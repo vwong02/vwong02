@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ### 👩🏼‍💻 Currently I'm working on...
-- Learning Next.js, Tailwind CSS and Typescript through building my personal portfolio website 
+- Learning [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/) and [Typescript](https://www.typescriptlang.org/) through building my personal portfolio website 
 - Levelling up my skills in Ruby on Rails and React
 
 
