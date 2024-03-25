@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Victoria 👋🏼
 
-- Growth Marketing Specialist turned Full-Stack Web Developer with skills in JavaScript, React, Node.js, HTML, CSS, Bootstrap, Express, and PostgreSQL
+- Growth Marketing Specialist turned Full-Stack Web Developer with skills in JavaScript, React, Node.js, HTML, CSS, Express, Bootstrap, and PostgreSQL
 - Recent Lighthouse Labs Full-Stack Web Developer Bootcamp graduate
 
 
