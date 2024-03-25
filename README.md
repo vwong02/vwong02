@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Victoria 👋🏼
 
-- Growth Marketing Specialist turned Full-Stack Web Developer with skills in JavaScript, React, Node.js, Express, Ruby on Rails, HTML, CSS, Bootstrap, and PostgreSQL
+- Growth Marketing Specialist turned Full-Stack Web Developer with skills in JavaScript, React, Node.js, HTML, CSS, Bootstrap, Express, and PostgreSQL
 - Recent Lighthouse Labs Full-Stack Web Developer Bootcamp graduate
 
 
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 
 ### 👩🏼‍💻 Currently I'm working on...
-- Learning [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/) and [Typescript](https://www.typescriptlang.org/) through building my personal portfolio website 
-- Levelling up my skills in Ruby on Rails and React
+- Learning [Shopify Liquid](https://shopify.dev/docs/api/liquid), [Tailwind CSS](https://tailwindcss.com/), and [Firebase](https://firebase.google.com/) through building my personal portfolio website and freelancer work.
+- Levelling up my skills in [React](https://react.dev/) 
 
 
 ### 🤝🏼 Let's Connect
