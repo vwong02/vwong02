@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ### 👩🏼‍💻 Currently I'm working as...
-- SWE Intern @ [Shopify] (https://www.shopify.com/)
+- SWE Intern @ [Shopify](https://www.shopify.com/)
 
 
 ### 🤝🏼 Let's Connect
