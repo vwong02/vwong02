@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 
 
 
-### 👩🏼‍💻 Currently I'm working on...
-- Learning [Shopify Liquid](https://shopify.dev/docs/api/liquid), [Tailwind CSS](https://tailwindcss.com/), and [Firebase](https://firebase.google.com/) through building my personal portfolio website and freelancer work.
-- Levelling up my skills in [React](https://react.dev/) 
+### 👩🏼‍💻 Currently I'm working as...
+- SWE Intern @ [Shopify] (https://www.shopify.com/)
 
 
 ### 🤝🏼 Let's Connect
